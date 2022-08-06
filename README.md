@@ -1,2 +1,2 @@
-# Walmart-EDA
-Exploratory data analysis on Walmart
+# EDA
+Exploratory data analysis on the biggest Retail store of US
